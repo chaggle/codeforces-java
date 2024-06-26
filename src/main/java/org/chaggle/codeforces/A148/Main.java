@@ -32,6 +32,5 @@ public class Main {
         scanner.nextLine();
         int count = mod(k, l, m, n, d);
         System.out.println(count);
-
     }
 }
